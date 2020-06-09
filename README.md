@@ -13,7 +13,7 @@ A fun holiday application, that allows the user to add destinations to a wish-li
 
 ## App In Use:
 URL link:
-![Coddiwomple](https://sleepy-temple-88858.herokuapp.com/)
+(https://sleepy-temple-88858.herokuapp.com/)
 
 Below is are screenshots of each page. 
 ### Sign up 
@@ -38,4 +38,4 @@ Displays members names and destination users want to travel too. Users can view 
 
 ## Credits:
 @Janice-cloud
-@rhysrushton
+@ameliagoodson
